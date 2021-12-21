@@ -9,5 +9,5 @@ greenlet==1.1.2
 gunicorn==20.1.0
 itsdangerous== 2.0.1
 numpy==1.21.5
-wsgiref==0.1.2
+wsgiref==2.0.2
 
